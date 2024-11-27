@@ -5,3 +5,4 @@ Repository Hii local
 welcome
 hii
 how are you
+global
