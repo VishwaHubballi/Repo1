@@ -1,2 +1,3 @@
 hello
 global
+local
